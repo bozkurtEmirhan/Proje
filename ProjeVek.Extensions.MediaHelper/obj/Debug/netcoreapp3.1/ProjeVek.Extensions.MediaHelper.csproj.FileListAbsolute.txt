@@ -1,0 +1,10 @@
+C:\Users\Eren\Desktop\Projem\ProjeVek\ProjeVek.Extensions.MediaHelper\bin\Debug\netcoreapp3.1\ProjeVek.Extensions.MediaHelper.deps.json
+C:\Users\Eren\Desktop\Projem\ProjeVek\ProjeVek.Extensions.MediaHelper\bin\Debug\netcoreapp3.1\ProjeVek.Extensions.MediaHelper.dll
+C:\Users\Eren\Desktop\Projem\ProjeVek\ProjeVek.Extensions.MediaHelper\bin\Debug\netcoreapp3.1\ProjeVek.Extensions.MediaHelper.pdb
+C:\Users\Eren\Desktop\Projem\ProjeVek\ProjeVek.Extensions.MediaHelper\obj\Debug\netcoreapp3.1\ProjeVek.Extensions.MediaHelper.csproj.AssemblyReference.cache
+C:\Users\Eren\Desktop\Projem\ProjeVek\ProjeVek.Extensions.MediaHelper\obj\Debug\netcoreapp3.1\ProjeVek.Extensions.MediaHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Desktop\Projem\ProjeVek\ProjeVek.Extensions.MediaHelper\obj\Debug\netcoreapp3.1\ProjeVek.Extensions.MediaHelper.AssemblyInfoInputs.cache
+C:\Users\Eren\Desktop\Projem\ProjeVek\ProjeVek.Extensions.MediaHelper\obj\Debug\netcoreapp3.1\ProjeVek.Extensions.MediaHelper.AssemblyInfo.cs
+C:\Users\Eren\Desktop\Projem\ProjeVek\ProjeVek.Extensions.MediaHelper\obj\Debug\netcoreapp3.1\ProjeVek.Extensions.MediaHelper.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\Projem\ProjeVek\ProjeVek.Extensions.MediaHelper\obj\Debug\netcoreapp3.1\ProjeVek.Extensions.MediaHelper.dll
+C:\Users\Eren\Desktop\Projem\ProjeVek\ProjeVek.Extensions.MediaHelper\obj\Debug\netcoreapp3.1\ProjeVek.Extensions.MediaHelper.pdb

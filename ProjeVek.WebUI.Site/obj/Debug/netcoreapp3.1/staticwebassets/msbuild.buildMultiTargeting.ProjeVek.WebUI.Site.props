@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProjeVek.WebUI.Site.props" />
+</Project>

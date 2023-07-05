@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjeVek.Model", "ProjeVek.Model\ProjeVek.Model.csproj", "{65022867-0DCC-43D2-900D-2C1463FDE0D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjeVek.Data", "ProjeVek.Data\ProjeVek.Data.csproj", "{E16AD459-A171-466B-956E-8EFD723D7723}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebUI", "WebUI", "{A315831A-B06B-43EA-9E4F-33C484B78AF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjeVek.WebUI.Site", "ProjeVek.WebUI.Site\ProjeVek.WebUI.Site.csproj", "{539454FD-7E8A-498B-8817-AB9953298352}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjeVek.WebUI.Management", "ProjeVek.WebUI.Management\ProjeVek.WebUI.Management.csproj", "{B36A0312-3D2F-4283-8EA7-85D1B21A533E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjeVek.WebUI.Infrastructure", "ProjeVek.WebUI.Infrastructure\ProjeVek.WebUI.Infrastructure.csproj", "{09157B18-A3D3-4366-BA70-24DED8E25C68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Extension", "Extension", "{FF4A5971-4F47-4275-BC2D-33D9D1D74BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjeVek.Extensions.MediaHelper", "ProjeVek.Extensions.MediaHelper\ProjeVek.Extensions.MediaHelper.csproj", "{5D392355-FFB0-4371-A866-3305F61F7FE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{3A01DC5E-5437-47BA-A747-18FDF39ACA0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Caching", "Caching", "{54BEDFE4-6EA6-4107-B550-8E5BBBBFB08F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjeVek.Infrastructure.Caching.Memory", "ProjeVek.Infrastructure.Caching.Memory\ProjeVek.Infrastructure.Caching.Memory.csproj", "{B4A7DD7E-CC4A-4029-8AD2-80F37CE1403D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{DC026476-F156-498C-BAB8-FEF47F54C06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VekProje.Tools.SearchConsole", "VekProje.Tools.SearchConsole\VekProje.Tools.SearchConsole.csproj", "{99FAD03A-C893-4C50-A182-0C51C7202772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65022867-0DCC-43D2-900D-2C1463FDE0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65022867-0DCC-43D2-900D-2C1463FDE0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65022867-0DCC-43D2-900D-2C1463FDE0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65022867-0DCC-43D2-900D-2C1463FDE0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E16AD459-A171-466B-956E-8EFD723D7723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16AD459-A171-466B-956E-8EFD723D7723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16AD459-A171-466B-956E-8EFD723D7723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16AD459-A171-466B-956E-8EFD723D7723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{539454FD-7E8A-498B-8817-AB9953298352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539454FD-7E8A-498B-8817-AB9953298352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539454FD-7E8A-498B-8817-AB9953298352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539454FD-7E8A-498B-8817-AB9953298352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36A0312-3D2F-4283-8EA7-85D1B21A533E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36A0312-3D2F-4283-8EA7-85D1B21A533E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36A0312-3D2F-4283-8EA7-85D1B21A533E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36A0312-3D2F-4283-8EA7-85D1B21A533E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09157B18-A3D3-4366-BA70-24DED8E25C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09157B18-A3D3-4366-BA70-24DED8E25C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09157B18-A3D3-4366-BA70-24DED8E25C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09157B18-A3D3-4366-BA70-24DED8E25C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D392355-FFB0-4371-A866-3305F61F7FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D392355-FFB0-4371-A866-3305F61F7FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D392355-FFB0-4371-A866-3305F61F7FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D392355-FFB0-4371-A866-3305F61F7FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A7DD7E-CC4A-4029-8AD2-80F37CE1403D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A7DD7E-CC4A-4029-8AD2-80F37CE1403D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A7DD7E-CC4A-4029-8AD2-80F37CE1403D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A7DD7E-CC4A-4029-8AD2-80F37CE1403D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FAD03A-C893-4C50-A182-0C51C7202772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FAD03A-C893-4C50-A182-0C51C7202772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FAD03A-C893-4C50-A182-0C51C7202772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FAD03A-C893-4C50-A182-0C51C7202772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{539454FD-7E8A-498B-8817-AB9953298352} = {A315831A-B06B-43EA-9E4F-33C484B78AF3}
+		{B36A0312-3D2F-4283-8EA7-85D1B21A533E} = {A315831A-B06B-43EA-9E4F-33C484B78AF3}
+		{09157B18-A3D3-4366-BA70-24DED8E25C68} = {A315831A-B06B-43EA-9E4F-33C484B78AF3}
+		{5D392355-FFB0-4371-A866-3305F61F7FE8} = {FF4A5971-4F47-4275-BC2D-33D9D1D74BEE}
+		{54BEDFE4-6EA6-4107-B550-8E5BBBBFB08F} = {3A01DC5E-5437-47BA-A747-18FDF39ACA0C}
+		{B4A7DD7E-CC4A-4029-8AD2-80F37CE1403D} = {54BEDFE4-6EA6-4107-B550-8E5BBBBFB08F}
+		{99FAD03A-C893-4C50-A182-0C51C7202772} = {DC026476-F156-498C-BAB8-FEF47F54C06F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A403137-C33D-408D-A612-B2F19E8813A8}
+	EndGlobalSection
+EndGlobal
